@@ -1,4 +1,4 @@
-# TrichyGuard
+# ResQNet 
 
 ## AI-Powered Accident Risk Prediction, Zone Classification & Emergency Routing for Tiruchirappalli
 
